@@ -15,7 +15,8 @@
 - Pada informasi company domain, tuliskan identifier nama pembuat project
   android, umumnya juga berupa alamat domain pembuat aplikasi (dalam contoh ini
   adalah `dhanifudin.com`)
-- Pilih tempat penyimpanan lokasi project, jika ingin diubah.
+- Pilih tempat penyimpanan lokasi project, ke dalam hasil clone repo assignment
+ anda!
 
   ![01](./images/01.png)
 
